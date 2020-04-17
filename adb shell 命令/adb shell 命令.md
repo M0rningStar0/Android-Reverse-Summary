@@ -130,6 +130,7 @@ ADB Server是运行在主机上的一个后台进程。它的作用在于检测U
 3.运行在设备端的常驻进程adb demon (adbd)：
 
 程序“adbd”作为一个后台进程在Android设备或模拟器系统中运行。它的作用是连接ADB服务器，并且为运行在主机上的客户端提供一些服务；
+
 ![1587113168095](https://github.com/M0rningStar0/Android-Reverse-Summary/blob/master/adb%20shell%20%E5%91%BD%E4%BB%A4/1587113168095.png)
 ![1587113202676](https://github.com/M0rningStar0/Android-Reverse-Summary/blob/master/adb%20shell%20%E5%91%BD%E4%BB%A4/1587113202676.png)
 
